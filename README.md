@@ -8,7 +8,7 @@
 
 <h1>What's Here?</h1>
 <p>
-  Within this repository, you'll find a straightforward implementation of Median Filtering performed via CUDA. Both the input and output images are provided, along with measurements of the algorithm's execution time (which may vary depending on the machine). The image handling relies on the stb_image header library, so ensure you have the necessary header files installed (https://github.com/nothings/stb). While I executed the code on Google Colab, it should execute just as well locally.
+  Within this repository, you'll find a straightforward implementation of Median Filtering performed via CUDA. Both the input and output images are provided, along with measurements of the algorithm's execution time (which may vary depending on the machine). The image handling relies on the stb_image header library, so ensure you have the necessary header files installed (https://github.com/nothings/stb). While I executed the code on Google Colab, it should execute just as well locally. A CPU implementation (no CUDA) of the program is provided as well.
 </p>
 
 <h1>References</h1>
