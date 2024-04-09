@@ -12,8 +12,8 @@
 </p>
 
 <h1>References</h1>
-<p>Ofcourse, I can't claim sole authorship for this code. I took references from ChatGPT and other github repositories as well so do check them out:
-  <li>https://github.com/jonaylor89/Median-Filter-CUDA </li>
-  <li>https://github.com/detel/Median-Filtering-GPU</li>
-  <li>https://homepages.inf.ed.ac.uk/rbf/HIPR2/median.htm</li>
+<p>Of course, I can't claim sole authorship for this code. I took references from ChatGPT and other github repositories as well so do check them out:
+      <li>https://github.com/jonaylor89/Median-Filter-CUDA </li>
+      <li>https://github.com/detel/Median-Filtering-GPU</li>
+      <li>https://homepages.inf.ed.ac.uk/rbf/HIPR2/median.htm</li>
 </p>
